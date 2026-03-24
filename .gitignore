@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+build/
+dist/
+.pytest_cache/
+.coverage
+.mypy_cache/
+.pytype/
+.dmypy.json
+.vscode/
+*.log
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
